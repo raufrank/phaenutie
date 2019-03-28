@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thiengeexa.xlunch.org/sitemap.xml
